@@ -1,0 +1,47 @@
+body{
+    background-color: grey;
+}
+
+div{
+    background-color: red;
+    font-weight: bold;
+    font-style: italic;
+    margin-left: 0.5;
+    padding-bottom: 0.5;
+    text-align: left;
+}
+table{
+    border: 2px black solid;
+    width: 50%;
+    float: left;
+}
+.przycisk{
+    background-color: #0066ff;
+    border-radius: 30%;
+    border: 3px black dotted;
+}
+#kot{
+    margin-left: auto;
+    margin-right:   auto;
+    width: 50%;
+}
+a{
+    text-decoration: none;
+    color: aqua;
+    font-size: 30px;
+}
+tr{
+    background-color: white;
+}
+td{
+    background-color: pink;
+}
+form{
+    float: left;
+    width: 50%;
+}
+footer{
+    margin-top: 50px;
+    text-align: center;
+    font-size: 40px;
+}
